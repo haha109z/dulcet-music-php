@@ -8,6 +8,7 @@
 ### 開始使用
 
 ．將　lest　資料夾放在　XAMPP的htdocs底下
+．匯入lest0501.SQL
 ．開啟瀏覽器輸入 localhost/lest
 
 ．登入
