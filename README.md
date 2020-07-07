@@ -7,7 +7,7 @@
 <br/>
 ### 開始使用
 <br/>
-．將　lest　資料夾放在　XAMPP的htdocs底下<br/>
+．將　lest　資料夾放在　XAMPP　的　htdocs　底下<br/>
 ．匯入lest0501.SQL<br/>
 ．開啟瀏覽器輸入 localhost/lest<br/>
 <br/>
