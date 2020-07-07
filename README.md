@@ -1,68 +1,42 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 資策會MFEE07小專-後台
 
-## Available Scripts
+### Dulcet-music
 
-In the project directory, you can run:
+工具：Visual Studio Code + XAMPP
+後端: mysql + php
 
-### `yarn start`
+### 開始使用
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+．將　lest　資料夾放在　XAMPP的htdocs底下
+．開啟瀏覽器輸入 localhost/lest
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+．登入
+帳號：test
+密碼：test
 
-### `yarn test`
+詳情聯絡專題組員
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 組員及分工
 
-### `yarn build`
+翁宜君　聯絡 Email：migo0127@gmail.com
+廠商管理
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+林孟庭　聯絡 Email：mengtingf2e@gmail.com
+公告管理
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+林家緯　聯絡 Email：austin25864@gmail.com
+會員管理
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+曾國瑋　聯絡 Email：xavier840923@gmail.com
+訂單管理
 
-### `yarn eject`
+陳哲宇　聯絡 Email：milk840118@gmail.com
+優惠管理、統整資料表及頁面
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+吳怡庭　聯絡 Email：wu850417@gmail.com
+商品管理（樂器）、首頁設計
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+楊宜儒　聯絡 Email：haha821009@gmail.com
+商品管理（影片、課程）
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+專題發表所使用之網站圖片／音檔僅供當天 demo 使用，不作其他商業用途使用
