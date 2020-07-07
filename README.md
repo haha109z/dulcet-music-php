@@ -19,25 +19,25 @@
 
 ### 組員及分工
 <br/>
-翁宜君　聯絡 Email：migo0127@gmail.com<br/>
+翁宜君　聯絡 Email：migo0127@gmail.com
 廠商管理<br/>
 <br/>
-林孟庭　聯絡 Email：mengtingf2e@gmail.com<br/>
+林孟庭　聯絡 Email：mengtingf2e@gmail.com
 公告管理<br/>
 <br/>
-林家緯　聯絡 Email：austin25864@gmail.com<br/>
+林家緯　聯絡 Email：austin25864@gmail.com
 會員管理<br/>
 <br/>
-曾國瑋　聯絡 Email：xavier840923@gmail.com<br/>
+曾國瑋　聯絡 Email：xavier840923@gmail.com
 訂單管理<br/>
 <br/>
-陳哲宇　聯絡 Email：milk840118@gmail.com<br/>
+陳哲宇　聯絡 Email：milk840118@gmail.com
 優惠管理、統整資料表及頁面<br/>
 <br/>
-吳怡庭　聯絡 Email：wu850417@gmail.com<br/>
+吳怡庭　聯絡 Email：wu850417@gmail.com
 商品管理（樂器）、首頁設計<br/>
 <br/>
-楊宜儒　聯絡 Email：haha821009@gmail.com<br/>
+楊宜儒　聯絡 Email：haha821009@gmail.com
 商品管理（影片、課程）<br/>
 <br/>
 專題發表所使用之網站圖片／音檔僅供當天 demo 使用，不作其他商業用途使用
