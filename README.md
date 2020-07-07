@@ -3,7 +3,7 @@
 ### Dulcet-music
 <br/>
 工具：Visual Studio Code + XAMPP<br/>
-後端: mysql + php<br/>
+後端：mysql + php<br/>
 <br/>
 
 ### 開始使用
