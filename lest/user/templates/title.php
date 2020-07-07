@@ -1,0 +1,1 @@
+ <a href="./new.php">新增頁面</a> | <a href="./admin.php">返回會員列表</a> 

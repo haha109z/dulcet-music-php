@@ -1,0 +1,63 @@
+
+:root {
+    --mainFont-family: 微軟正黑體;
+    --color01: #F2D7B8;
+    --color02: #A6775B;
+    --color03: #BF8F73;
+    --color04: #D9BFB0;
+    --color05: #f2f2f2;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: url(bg-1.jpg) no-repeat;
+    background-size: cover;
+    background-color: var(--color02);
+}
+
+.card {
+    margin: 0 auto;
+    margin-top: 10%;
+    width: 340px;
+    height: 360px;
+    border: 5px solid var(--color02);
+    border-radius: 20px;
+    background-color: var(--color04);
+    text-align: center; 
+    font-family: var(--mainFont-family);
+}
+
+.logo {
+    margin: 0;
+}
+
+.logo img {
+    height: 50%;
+    margin-left: 25px;
+}
+
+.myForm {
+    color: var(--color02);
+}
+
+.myForm input {
+    padding-left: 5px;
+    height: 24px;
+    border: 1px solid var(--color02);
+    border-radius: 3px;
+}
+
+.input {
+    padding: 16px;
+}
+
+.submit input {
+    border: 1px solid var(--color03);
+    border-radius: 8px;
+    height: 28px;
+    width: 100px;
+    font-size: medium;
+}
