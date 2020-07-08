@@ -29,7 +29,7 @@
 林孟庭　聯絡 Email：mengtingf2e@gmail.com<br />
 活動管理<br />
 <br />
-林家緯　聯絡 Email：austin25864@gmail.com<br />
+林家緯　聯絡 Email：timothy25864@gmail.com<br />
 會員管理<br />
 <br />
 曾國瑋　聯絡 Email：xavier840923@gmail.com<br />
